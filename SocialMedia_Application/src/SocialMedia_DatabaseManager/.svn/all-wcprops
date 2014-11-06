@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/36/trunk/src/SocialMedia_DatabaseManager
+END
+BeitragMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/36/trunk/src/SocialMedia_DatabaseManager/BeitragMapper.java
+END
+KommentarMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/36/trunk/src/SocialMedia_DatabaseManager/KommentarMapper.java
+END
+DBStatementFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/34/trunk/src/SocialMedia_DatabaseManager/DBStatementFactory.java
+END
+PinnwandMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/36/trunk/src/SocialMedia_DatabaseManager/PinnwandMapper.java
+END
+DBConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/26/trunk/src/SocialMedia_DatabaseManager/DBConnection.java
+END
+LikeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/36/trunk/src/SocialMedia_DatabaseManager/LikeMapper.java
+END
+AbonnementMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/36/trunk/src/SocialMedia_DatabaseManager/AbonnementMapper.java
+END
+NutzerMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/36/trunk/src/SocialMedia_DatabaseManager/NutzerMapper.java
+END

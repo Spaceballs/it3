@@ -1,0 +1,46 @@
+10
+
+dir
+46
+https://socialmediapinnwand.googlecode.com/svn/trunk/src
+https://socialmediapinnwand.googlecode.com/svn
+
+
+
+2014-05-06T10:59:14.727386Z
+46
+maxkobald90@googlemail.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+79209e9f-bc66-3a24-f16a-bc44e906524b
+
+SocialMedia_Data
+dir
+
+SocialMedia_Logic
+dir
+
+SocialMedia_Client
+dir
+
+SocialMedia_DatabaseManager
+dir
+
+SocialMedia_ReportGenerator
+dir
+
+SocialMedia_Gui
+dir
+

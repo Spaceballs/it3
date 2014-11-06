@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data
+END
+BeitragImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/BeitragImpl.java
+END
+PinnwandImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/PinnwandImpl.java
+END
+UserCreatedContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/UserCreatedContent.java
+END
+LikeImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/LikeImpl.java
+END
+AbonnementImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/AbonnementImpl.java
+END
+NutzerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/NutzerImpl.java
+END
+DataReferenceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/DataReferenceImpl.java
+END
+Beitrag.java
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/Beitrag.java
+END
+Pinnwand.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/Pinnwand.java
+END
+KommentarImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/KommentarImpl.java
+END
+UserCreatedContentImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/UserCreatedContentImpl.java
+END
+Like.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/Like.java
+END
+Abonnement.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/Abonnement.java
+END
+Nutzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/Nutzer.java
+END
+DataReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/DataReference.java
+END
+Kommentar.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/36/trunk/src/SocialMedia_Data/Kommentar.java
+END

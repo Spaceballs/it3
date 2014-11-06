@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/41/trunk/src/SocialMedia_ReportGenerator
+END
+SimpleParagraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/47/trunk/src/SocialMedia_ReportGenerator/SimpleParagraph.java
+END
+ReportGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/src/SocialMedia_ReportGenerator/ReportGenerator.java
+END
+ReportGeneratorImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/41/trunk/src/SocialMedia_ReportGenerator/ReportGeneratorImpl.java
+END
+Paragraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/src/SocialMedia_ReportGenerator/Paragraph.java
+END
+Row.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/47/trunk/src/SocialMedia_ReportGenerator/Row.java
+END
+CompositeParagraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/src/SocialMedia_ReportGenerator/CompositeParagraph.java
+END
+PopularityOfBeitrag.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/src/SocialMedia_ReportGenerator/PopularityOfBeitrag.java
+END
+Report.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/src/SocialMedia_ReportGenerator/Report.java
+END
+ContributionOfNutzer.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/2/trunk/src/SocialMedia_ReportGenerator/ContributionOfNutzer.java
+END
+Column.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/47/trunk/src/SocialMedia_ReportGenerator/Column.java
+END
